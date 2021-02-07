@@ -1,3 +1,18 @@
-# Add Implicit and Explicit Intents to an Android Candy Store App
+# Android Candy Store App
 
-This repo contains the code for the Pluralsight Project "Add Implicit and Explicit Intents to an Android Candy Store App," located here: https://app.pluralsight.com/projects/add-implicit-and-explicit-intents-to-an-android-candy-store-app/
+This app leverages the use of google map and sharing information via email intents. It displays the candies in a recyclerview and each recycler view is attached to a 
+listener whereby when clicked, it launches an activity to diplay the candy image and its discription. It has a hard coded location intent and phone call intent.
+
+# Prerequisites
+
+-Android studio and emulator running on API level 29
+
+-Knowlegde of Android intents
+
+## Project Flow
+
+### Home Page
+
+It contains the recycler list of the candies in the store.
+
+![]
