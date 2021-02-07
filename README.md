@@ -11,8 +11,8 @@ listener whereby when clicked, it launches an activity to diplay the candy image
 
 ## Project Flow
 
-### Home Page
+### Detail Intent
 
-It contains the recycler list of the candies in the store.
+It contains the recycler list of the candies in the store and its description
 
-![]
+![DetailIntent](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/DetailIntent.png?raw=true)
