@@ -16,3 +16,10 @@ listener whereby when clicked, it launches an activity to diplay the candy image
 It contains the recycler list of the candies in the store and its description
 
 ![DetailIntent](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/DetailIntent.png?raw=true)
+
+
+### InfoIntent
+
+This intent shows the information about location, phone number and 
+
+![InforIntent](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/InfoIntent.png?raw=true)
