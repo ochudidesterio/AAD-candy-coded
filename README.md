@@ -27,7 +27,7 @@ listener whereby when clicked, it launches an activity to diplay the candy image
 
 - Android studio and emulator running on API level 29
 
-- Knowlegde of Android intents
+- Knowlegde of Android implicit and explicit intents
 
 
 ## Project Flow
