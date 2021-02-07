@@ -35,7 +35,7 @@ This intent shows the information about location, phone number and time
 ### Map Intent
 
 
-This is an intent showing a hard coded google map location and its launched on clicking the location item on the options menu
+This is an intent showing a hard coded google map location and its launched on clicking the location item on the menu
 
 
 ![map Intent](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/MapIntent.png?raw=true)
@@ -45,10 +45,19 @@ This is an intent showing a hard coded google map location and its launched on c
 ### Phone Intent
 
 
-This is an intent showing the phone dial pad and its launched on clicking the phone number on options menu
+This is an intent showing the phone dial pad and its launched on clicking the phone number on the menu
 
 
 ![Phone](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/PhoneIntent.png?raw=true)
+
+
+### Share Intent
+
+
+This intent allows the sharing of candy images and its description  by invoking the built in email applications like gmail.
+
+
+![Share Intent](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/ShareIntent.png?raw=true)
 
 
 
