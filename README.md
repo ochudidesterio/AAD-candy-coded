@@ -1,3 +1,17 @@
+## Table of Contents
+
+  - [Android Candy Store App](#android-candy-store-app)
+  - [Prerequisites](#prerequisites)
+  - [Project Flow](#project-flow)
+    - [Detail Intent](#detail-intent)
+    - [InfoIntent](#inforintent)
+    - [Map Intent](#map-intent)
+    - [Phone Intent](#phone-intent)
+    - [Share Intent](#share-intent)
+
+
+
+
 # Android Candy Store App
 
 This app leverages the use of google map and sharing information via email intents. It displays the candies in a recyclerview and each recycler view is attached to a 
