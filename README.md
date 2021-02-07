@@ -25,9 +25,9 @@ listener whereby when clicked, it launches an activity to diplay the candy image
 
 # Prerequisites
 
--Android studio and emulator running on API level 29
+- Android studio and emulator running on API level 29
 
--Knowlegde of Android intents
+- Knowlegde of Android intents
 
 
 ## Project Flow
