@@ -48,7 +48,7 @@ This is an intent showing a hard coded google map location and its launched on c
 This is an intent showing the phone dial pad and its launched on clicking the phone number on options menu
 
 
-![Phone]()
+![Phone](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/images/PhoneIntent.png?raw=true)
 
 
 
