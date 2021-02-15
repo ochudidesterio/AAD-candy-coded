@@ -8,7 +8,7 @@
     - [Map Intent](#map-intent)
     - [Phone Intent](#phone-intent)
     - [Share Intent](#share-intent)
-    -[LICENSE](#license)
+    - [LICENSE](#license)
     
     <br>
     :point_down: :point_down: :point_down: :point_down: :point_down:
