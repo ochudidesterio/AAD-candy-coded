@@ -85,7 +85,7 @@ This intent allows the sharing of candy images and its description  by invoking 
 
 # LICENSE
 
-[MIT](https://github.com/peterokwara/BuildingManagement/blob/master/LICENSE)
+[MIT](https://github.com/ochudidesterio/AAD-candy-coded/blob/master/LICENSE)
 
 
 
